@@ -1,10 +1,14 @@
 {
   "name": "alejandrasp",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "main": "dist/index.js",
   "license": "MIT",
   "author": "Alejandra Sabater Pérez",
-
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nds-fsd/alejandrasp",
+    "homepage": "https://github.com/nds-fsd/alejandrasp"
+    },
 
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
